@@ -1,2 +1,42 @@
 * Friendly Lamp
 A Fullstack Architechture for next generation platform
+* Reference projects and key responsibilities
+** Swapno Re-seller based prepaid Billing system
+*** Technical Lead, Software Global Consultancy
+   SGC GLOBAL (from May 2012) (5+ years)
+
+   I was involved in this project the scratch from coding to architectural decisions.
+   Key responsibilities are concurrent and fault tolerant Application Development.
+   Developing graphical interface (GUI) for Web and Mobile. Distributed database design
+   and Query optimizations and System Automation & Testing.
+
+*** Technology Stack
+
+    | Javascript, Clojurescript | React, Redux, nodejs          | Functianal Programming                    |
+    | Java, Clojure             | Micro services, GraphQL, Rest | Communication Sequential Processing (CSP) |
+    | Redis, Prostgresql        | ACID Transaction              | Relational Programming                    |
+    | Mocha, Chi, JUnit         | Clojure Specs                 | Property based testing                    |
+    | Docker, Shell             | Xen Vitualization             | Vertual Desktop (VDI)                     |
+    | ESP32, Intel Cherry Trail | Lua, 802.11ac                 | Rashberry PI                              |
+
+** Fractal Multimedia communication platform
+*** Serinor Software Engineer, Fractal Labs
+    From (Feb 2008 - March 2012) (4+ years)
+
+    Application development on telecommunication platform Web and Mobile interface development.
+    Bug fixes for device drivers in Linux Kernel and Binary Protocol implementation. Call center application development.
+
+*** Technology Stack
+    | Javascript         | Ajex, jQuery         |
+    | C/C++              | System Programming   |
+    | Prostgresql        | SQL Query            |
+    | Perl, Python       | Awk Shell scripting  |
+    | SIP, SS7, Asterisk | Opensips, Freeshitch |
+
+** Madiator and Billing System for GP rignback service (PRBT) and Grameenphone trouble ticketing system
+*** System Engineer, Grameenphone
+    from (Feb 2007 - Jan 2008) (1 years)
+
+    | JAVA       | Network programming |
+    | Oracle     | Store procedure     |
+    | Javascript | HTML,CSS            |
