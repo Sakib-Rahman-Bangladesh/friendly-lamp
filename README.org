@@ -88,3 +88,42 @@ and manage complexity of large distributed web applications.
   height availability and redundancy of micro services and update code one production server.
   I am working on GraphQL, datalog, logic programming,  Erlang error handling mechanism to solve
   the problems.
+* Embedded System for Internet of things (IOT).
+
+  Embedded System knowledge is must to join raise of IOT and System on Chip (SoC).
+  I stated my carrier in embedded system, difference between now and then is -
+  there is sufficient information available online and large number of PCB vendors,
+  even cost of making prototype is reasonable. I have done projects on  ESP32,
+  ESP8266 form PCB design to production no not mention I was in device driver team
+  for multimedia communication system based on Linux kernel where I need
+  to fix device related bugs and communication protocol related bugs. Only difficulties
+  I faced  now and then is a non technical issues of customs dispatching overhead,
+  courier services charges but we have our way to overcome these issues.
+
+* Devops System Automation, testing and writing specs
+
+  Fix a bug may introduce other bugs that why unit testing is very necessary to protect
+  overall integrity of the product from new change request. But it takes significant
+  amount time to write test cases not to mention some time we got reluctant and cover
+  every edge cases. I have introduced property base testing along with software specification
+  language so that test case can be auto generated.
+
+  Finally system automation is necessary, because it is nature of human to make mistake
+  and human learns from mistake. On the other hand machine breaks on error. In order
+  to feel this gap and keep whole system up and running from development to production
+  and maintenance we need to automate whole system with best practices and proven tactics
+  and keep it out of human intervention. This is why I use to work with linux over windows
+  to implement policy based devops systems and UI using Python, Javascirpt, AWK,
+  Shell scripting over the cloud architecture and build cloud architecture using Xen,
+  Docker and virtual desktop.
+* Education - BSC, Computer science
+
+  I have a solid academic background, I have participated programming contests and
+  perform quite well. My final project was - Design 32-bit processor using MISPs
+  instruction on Xlink FPGA
+
+* Personal Information
+
+  I was born in Dhaka in 8th October 1980. I spend my childhood in many corners of Bangladesh.
+  My father MD Gulam Kibria and My mother is Asia Akter, we are from district Netrokuna.
+  I am married to Rezwanna Sharmin. We have two daughters. We love our country.
