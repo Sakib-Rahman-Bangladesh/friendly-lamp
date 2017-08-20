@@ -1,5 +1,8 @@
 * Friendly Lamp
-A Fullstack Architechture for next generation platform
+A Fullstack Architecture for next generation platform. This project is a reference
+project where I am trying to demonstrate past experiences and guideline how to develop
+and manage complexity of large distributed web applications.
+
 * Reference projects and key responsibilities
 ** Swapno Re-seller based prepaid Billing system
 *** Technical Lead, Software Global Consultancy
@@ -14,15 +17,15 @@ A Fullstack Architechture for next generation platform
 
 *** Technology Stack
 
-    | Javascript, Clojurescript | React, Redux, nodejs          | Functianal Programming                    |
+    | Javascript, Clojurescript | React, Redux, nodejs          | Functional Programming                    |
     | Java, Clojure             | Micro services, GraphQL, Rest | Communication Sequential Processing (CSP) |
     | Redis, Prostgresql        | ACID Transaction              | Relational Programming                    |
     | Mocha, Chi, JUnit         | Clojure Specs                 | Property based testing                    |
-    | Docker, Shell             | Xen Vitualization             | Vertual Desktop (VDI)                     |
+    | Docker, Shell             | Xen Virtualization             | Virtual Desktop (VDI)                     |
     | ESP32, Intel Cherry Trail | Lua, 802.11ac                 | Rashberry PI                              |
 
 ** Fractal Multimedia communication platform
-*** Serinor Software Engineer, Fractal Labs
+*** Senior Software Engineer, Fractal Labs
     From (Feb 2008 - March 2012) (4+ years)
 
     Application development on telecommunication platform Web and Mobile interface development.
@@ -35,10 +38,33 @@ A Fullstack Architechture for next generation platform
     | Perl, Python       | Awk Shell scripting  |
     | SIP, SS7, Asterisk | Opensips, Freeshitch |
 
-** Madiator and Billing System for GP rignback service (PRBT) and Grameenphone trouble ticketing system
+** Mediator and Billing System for GP ringback service (PRBT) and Grameenphone trouble ticketing system
 *** System Engineer, Grameenphone
     from (Feb 2007 - Jan 2008) (1 years)
 
     | JAVA       | Network programming |
     | Oracle     | Store procedure     |
     | Javascript | HTML,CSS            |
+* Interactive Web and Mobile User Interface development
+
+  Rapid user interfaces Development and look & feel for Web, Android, iPhone are main
+  challenges which needs to be overcome. I overcome these challenges by choosing set of
+  tools and programming language that equally works for web, mobile development and
+  mastering on it.
+
+  In order to create user experience, I use to work with React and React Native for
+  Android and iPhone native UI development. I have adopted functional style of
+  programming with immutable data structure (Redux, GrapthQL) to manage complex UI interaction,
+  transition animation and real time notifications and messaging as well as keep
+  the code always manageable for further development.
+
+  CSS, HTML5, SVG, Canvas are essential part of UI look & feet and also
+  for make the UI responsive but one need to take special care when using these
+  technologies spatially when using CSS frameworks and JavaScript libraries.
+  Which often makes website bulky slower loading time and slower response time.
+  I used dead code elimination techniques using google Clojure compiler so that
+  web site never gets bulky.
+
+  Data Visualization info graphics is very important part of user interface design
+  its empower user so that user can understand whole business case at a glance.
+  I use d3 and Vega as well as mathematics when convenient for demographics.
