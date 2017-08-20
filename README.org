@@ -5,10 +5,12 @@ A Fullstack Architechture for next generation platform
 *** Technical Lead, Software Global Consultancy
    SGC GLOBAL (from May 2012) (5+ years)
 
-   I was involved in this project the scratch from coding to architectural decisions.
-   Key responsibilities are concurrent and fault tolerant Application Development.
-   Developing graphical interface (GUI) for Web and Mobile. Distributed database design
-   and Query optimizations and System Automation & Testing.
+   This project is implemented form the scratch. Key responsibilities of this projects are -
+
+**** Concurrent and fault tolerant Application Development.
+**** Developing graphical interface (GUI) for Web and Mobile.
+**** Distributed database design and Query optimizations.
+**** Devops System Automation & Generative Testing.
 
 *** Technology Stack
 
