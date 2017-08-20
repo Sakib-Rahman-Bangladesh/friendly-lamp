@@ -48,11 +48,11 @@ and manage complexity of large distributed web applications.
 * Interactive Web and Mobile User Interface development
 
   Rapid user interfaces Development and look & feel for Web, Android, iPhone are main
-  challenges which needs to be overcome. I overcome these challenges by choosing set of
+  challenges which needs to be overcome. We overcome these challenges by choosing set of
   tools and programming language that equally works for web, mobile development and
   mastering on it.
 
-  In order to create user experience, I use to work with React and React Native for
+  In order to create user experience, We use to work with React and React Native for
   Android and iPhone native UI development. I have adopted functional style of
   programming with immutable data structure (Redux, GrapthQL) to manage complex UI interaction,
   transition animation and real time notifications and messaging as well as keep
@@ -65,6 +65,26 @@ and manage complexity of large distributed web applications.
   I used dead code elimination techniques using google Clojure compiler so that
   web site never gets bulky.
 
-  Data Visualization info graphics is very important part of user interface design
-  its empower user so that user can understand whole business case at a glance.
-  I use d3 and Vega as well as mathematics when convenient for demographics.
+  Data Visualization i.e info graphics is very important part of user interface
+  design which empowers user so that user can understand whole business case at a glance.
+  We have used d3 and Vega as well as mathematics when convenient in our projects.
+
+* Concurrent and fault tolerant Application Development for Web and Internet of things (IOT)
+
+  Rise of cloud infrastructure and IOT devices make us thinking of current monolithic
+  application architecture. Estimated number of IOT devices will connect to web by 2020
+  will be 5 times total population of the earth; on the other hand in order to leverage cloud
+  infrastructure application needs to be concurrent, fault tolerant and distributed.
+  I use to work with immutable data structure because data mutation is a serious problem
+  for multi thread environment which causes deadlock and data loss and frequent crashing
+  and current solution semaphore locking and mutes doesn’t guaranties to avoid these circumstances.
+  I use communication sequential processing (CPS) to effective message passing between the threads
+  which can leverage thousands of threads over the cloud.
+
+  Micro services are necessary part of cloud infrastructure which leverage heterogeneous
+  programming languages work together. I have implemented Micro services with java, nodes,
+  python, clojure, c/c++ using by exposing Rest service and JSON data structure to
+  subscriber and Message Queues for real time notification. We had tough time ensuring
+  height availability and redundancy of micro services and update code one production server.
+  I am working on GraphQL, datalog, logic programming,  Erlang error handling mechanism to solve
+  the problems.
