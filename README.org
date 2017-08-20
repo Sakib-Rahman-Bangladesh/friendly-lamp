@@ -1,0 +1,2 @@
+* Friendly Lamp
+A Fullstack Architechture for next generation platform
